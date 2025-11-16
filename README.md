@@ -8,7 +8,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **🚗 Developing driver assistance functions**
-- 🌱 I'm currently learning: **👨‍💻 Cyber Security with focus on Penetration Testing and Security Engineering doing [Tryhackme Challenges](https://tryhackme.com/p/angryplatpypus) aswell as Coding with AI**
+- 🌱 I'm currently learning: **👨‍💻 Cyber Security with focus on Penetration Testing and Security Engineering doing [Tryhackme Challenges](https://tryhackme.com/p/angryplatypus) aswell as Coding with AI**
 - 💬 Ask me about: **💡 Anything honestly.. not sure if I am able to answer though**
 
  **<h3 align="left">Projects</h3>**
