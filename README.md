@@ -28,3 +28,6 @@ Find out more in the project itself!
 
  **<h3 align="left">Cyber Security Journey</h3>**
 
+<p>
+  <img src="https://github.com/jonakr/jonakr/blob/main/assets/tryhackme-badge.png" alt="TryHackMe Badge" style="height:100%;"/>
+</p>
