@@ -3,7 +3,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/jona-krumrein-9420b9205" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🤓 Hi, I'm **Jona**, a passionate **Function Developer** based in **Germany** with **6+ years** of experience, who also likes to develop Web and Mobile applications and currently works on getting a foothold in Cyber Security</h3>**
+ **<h3 align="left">🤓 Hi, I'm **Jona**, a passionate **Function Developer** based in **Germany** with **5+ years** of experience, who also likes to develop Web and Mobile applications and currently works on getting a foothold in Cyber Security</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
