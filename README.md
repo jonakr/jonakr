@@ -3,13 +3,24 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/jona-krumrein-9420b9205" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🤓 I'm a Function Developer for Advanced Driver Assistance Systems, who also likes to develop Web and Mobile applications and currently works on getting a foothold in Cyber Security</h3>**
+ **<h3 align="left">🤓 Hi, I'm **Jona**, a passionate **Function Developer** based in **Germany** with **6+ years** of experience, who also likes to develop Web and Mobile applications and currently works on getting a foothold in Cyber Security</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **🚗 Developing driver assistance functions**
-- 🌱 I'm currently learning: **👨‍💻 Cyber Security with focus on Penetration Testing and Security Engineering, Coding with AI**
+- 🌱 I'm currently learning: **👨‍💻 Cyber Security with focus on Penetration Testing and Security Engineering doing [Tryhackme Challenges](https://tryhackme.com/p/angryplatpypus) aswell as Coding with AI**
 - 💬 Ask me about: **💡 Anything honestly.. not sure if I am able to answer though**
+
+ **<h3 align="left">Projects</h3>**
+#### Pentesting Tutorials with the Metasploit Framework
+
+This repository contains the practical work developed for my **Master’s thesis** “Pentesting with Metasploit”. The project provides several **hands-on security tutorials**, each demonstrating how to reproduce and analyze different vulnerabilities using the **Metasploit Framework**. All examples run in safe, containerized **Docker** environments.
+
+The repository also includes a **final multi-stage challenge** that combines several modern Linux vulnerabilities into a complete attack path. The goal of the project is to help learners understand common exploitation techniques, how Metasploit works in practice, and how to safely perform penetration testing in controlled lab setups.
+
+Find out more in the project itself!
+
+🔗 [GitHub Repo](https://github.com/jonakr/msf-pentest-tutorials)
 
  **<h3 align="left">Skills</h3>**
 
@@ -21,4 +32,6 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=jonakr&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonakr&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
+
+ **<h3 align="left">Cyber Security Journey</h3>**
 
