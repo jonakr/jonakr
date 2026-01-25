@@ -29,4 +29,3 @@ Find out more in the project itself!
  **<h3 align="left">Cyber Security Journey</h3>**
 
 <img src="https://github.com/jonakr/jonakr/blob/main/assets/tryhackme-badge.png" alt="TryHackMe Badge" style="height:100%;"/>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/691714e206aadfe7890de16d?variant=dark" alt="roadmap.sh"/></a>
